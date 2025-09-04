@@ -10,7 +10,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Spotify',
+      title: 'J_Cifra_Septiembre',
       home: Scaffold(
         backgroundColor: const Color.fromARGB(
           255,
