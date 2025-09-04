@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="estructura_01"
+        android:label="j_cifra_septiembre"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
